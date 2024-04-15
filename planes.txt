@@ -1,0 +1,11 @@
+c 9 left
+g 4 up
+h 6 right => really shows how inefficient is the algorithm right now
+
+a 3 down
+g 5 down
+f 10 left
+
+f 5 up
+f 7 right
+f 4 down
